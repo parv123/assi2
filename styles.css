@@ -1,0 +1,28 @@
+h1{background-color: #20b2aa;text-align: center; color: white;font-family: helvetica;
+    font-size: 3em
+}
+nav ul, li.pink a {
+    list-style-type: square;
+  
+    text-align: center;
+}
+li{ list-style-type: disc
+}
+li.pink, a {list-style-type:square;
+    color: #b2aa20;
+text-align: center;
+}
+h2{background-color: #aa20b2;
+    color: white;
+    font-family: helvetica;
+    font-size: 2em;
+    padding-left: 10px;
+}
+h3{font-size: 1.5em;
+    text-decoration: underline;
+    text-decoration-color: #20b2aa;
+}
+
+h4{background-color: #0cb2af;text-align: center; color: white;font-family: helvetica;
+    font-size:30px;
+}
